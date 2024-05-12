@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python , pandas**
 
-- 📫 How to reach me **sanjayjustforyou123@gmail.com**
+- 📫 How to reach me **https://sanjaychauhan001.github.io/my-portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
