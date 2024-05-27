@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **NLP**
 
-- 🤝 I’m looking for help with **flask**
+- 🤝 I’m looking for help with **NLP**
 
 - 💬 Ask me about **python , pandas**
 
