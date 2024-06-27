@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaychauhan001&show_icons=true&locale=en" alt="sanjaychauhan001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaychauhan001&" alt="sanjaychauhan001" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=sanjoy22&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
